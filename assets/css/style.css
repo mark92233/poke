@@ -300,6 +300,7 @@ body.dark-mode {
     align-items: flex-start;
     gap: 1rem;
     padding: 1rem;
+    position: absolute;
   }
 
   header input {
